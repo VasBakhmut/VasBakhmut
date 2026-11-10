@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Vasyl Bakhmut
 
-<!--
-**VasBakhmut/VasBakhmut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **Vasdev** — full-stack web developer and AI automation specialist in Melbourne, Australia.
 
-Here are some ideas to get you started:
+I build websites, Shopify stores and AI automations (n8n, chatbots) for Australian small businesses, and help them get found in Google and AI search (SEO and GEO).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Website:** https://www.vasdev.au
+
+**LinkedIn:** https://www.linkedin.com/in/vasyl-bakhmut-dev
+
+**Services:** web design, Shopify stores, AI automation, GEO
+
+**Stack:** Next.js, React, TypeScript, Node.js, n8n
